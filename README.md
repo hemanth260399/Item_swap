@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Element swap task</h1>
+<ul>
+  <li>In this add and delete the items in the box you can only use add in box-1 and and remove only in box-2</li>
+  <li>I have used the state to swap the items from one to another i have use mutiple function additem,deleteitem,addallitem,deleteallitem </li>
+  <li>The items are stored the as the button click the data will be swap</li>
+  <Li>I have use another box name that will restrict the unwanted swap like remove function in the box-1 like this</Li>
+</ul>
